@@ -1,0 +1,15 @@
+WEB SCRAPING
+
+
+
+DATA STORAGE
+- mongo
+- mysql
+
+
+LANGUAGE
+- node
+- python
+
+
+TEXT ANALYSIS
